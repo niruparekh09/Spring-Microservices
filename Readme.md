@@ -3,6 +3,12 @@
 Welcome to the Spring Microservices Learning Project! This repository is dedicated to learning and implementing various
 concepts and technologies related to microservices using Spring Boot and Spring Cloud.
 
+## Microservices:
+
+- REST
+- & Small Well Chosen Deployable Units
+- & Cloud Enabled
+
 ## Table of Contents
 
 - [Introduction](#introduction)
