@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="REST-Versioning" />
-        <module name="limits-service" />
+        <module name="Spring-cloud-config-server" />
         <module name="REST-Hateoas-Actuator" />
+        <module name="limits-service" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="REST-Hateoas-Actuator" options="-parameters" />
       <module name="REST-Versioning" options="-parameters" />
+      <module name="Spring-cloud-config-server" options="-parameters" />
       <module name="limits-service" options="-parameters" />
     </option>
   </component>

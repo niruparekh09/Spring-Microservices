@@ -134,6 +134,13 @@ Here's an example of how you can implement a simple limits service using Spring 
     - Start the Config Server.
     - Start the Limits Service.
 
+## To fetch via spring-cloud-config-server
+- Run both the servers simultaneously
+![img.png](img.png)
+![img_1.png](img_1.png)
+- Or else if you don't both the server you will see that it fetches the default value:
+![img_2.png](img_2.png)
+
 #### Testing
 
 When you access the `/limits` endpoint of the limits service, it should return the limits defined in the configuration

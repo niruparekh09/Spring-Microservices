@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Spring-Microservices/limits-service/pom.xml" />
         <option value="$PROJECT_DIR$/Misc/REST-Hateoas-Actuator/pom.xml" />
         <option value="$PROJECT_DIR$/Misc/REST-Versioning/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Microservices/Spring-cloud-config-server/pom.xml" />
       </list>
     </option>
   </component>
