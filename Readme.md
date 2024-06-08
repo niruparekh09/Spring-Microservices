@@ -1,6 +1,7 @@
 # Spring Microservices Learning Project
 
-Welcome to the Spring Microservices Learning Project! This repository is dedicated to learning and implementing various concepts and technologies related to microservices using Spring Boot and Spring Cloud.
+Welcome to the Spring Microservices Learning Project! This repository is dedicated to learning and implementing various
+concepts and technologies related to microservices using Spring Boot and Spring Cloud.
 
 ## Table of Contents
 
@@ -28,7 +29,9 @@ Welcome to the Spring Microservices Learning Project! This repository is dedicat
 
 ## Introduction
 
-This project aims to provide a comprehensive learning experience in developing and managing microservices using Spring Boot and Spring Cloud. Each module is designed to cover specific aspects of microservices, from basic REST API development to advanced topics like distributed tracing and fault tolerance.
+This project aims to provide a comprehensive learning experience in developing and managing microservices using Spring
+Boot and Spring Cloud. Each module is designed to cover specific aspects of microservices, from basic REST API
+development to advanced topics like distributed tracing and fault tolerance.
 
 ## Technologies and Concepts
 
@@ -56,15 +59,19 @@ To set up the project locally, follow these steps:
     ```bash
     git clone https://github.com/niruparekh09/Spring-Microservices.git
     ```
-2. Navigate to the project directory:
+2. Navigate to the project list:
     ```bash
     cd Spring-Microservices
     ```
-3. Build the project using Maven:
+3. Navigate to the project directory:
+    ```bash
+    cd Spring-Project-Name
+    ```
+4. Build the project using Maven:
     ```bash
     mvn clean install
     ```
-4. Run the project:
+5. Run the project:
     ```bash
     mvn spring-boot:run
     ```
@@ -73,23 +80,28 @@ To set up the project locally, follow these steps:
 
 ### REST API and REST Web Services
 
-Learn to develop and design RESTful web services using Spring Boot, including exception handling, validation, HATEOAS, and filtering.
+Learn to develop and design RESTful web services using Spring Boot, including exception handling, validation, HATEOAS,
+and filtering.
 
 ### Microservices with Spring Boot and Spring Cloud
 
-Explore how to build microservices architecture using Spring Boot and Spring Cloud, focusing on scalability, resilience, and fault tolerance.
+Explore how to build microservices architecture using Spring Boot and Spring Cloud, focusing on scalability, resilience,
+and fault tolerance.
 
 ### Orchestration with Kubernetes
 
-Understand how to deploy and manage microservices using Kubernetes for orchestration, ensuring high availability and scalability.
+Understand how to deploy and manage microservices using Kubernetes for orchestration, ensuring high availability and
+scalability.
 
 ### Containerization with Docker
 
-Create Docker containers for your microservices to ensure consistency across different environments and ease of deployment.
+Create Docker containers for your microservices to ensure consistency across different environments and ease of
+deployment.
 
 ### Exception Handling, Validation, HATEOAS, and Filtering
 
-Implement robust exception handling, input validation, HATEOAS for hypermedia-driven APIs, and data filtering techniques in your RESTful services.
+Implement robust exception handling, input validation, HATEOAS for hypermedia-driven APIs, and data filtering techniques
+in your RESTful services.
 
 ### Client-side Load Balancing, Dynamic Scaling, and API Gateway
 
@@ -115,7 +127,8 @@ Learn best practices for versioning your RESTful web services to ensure backward
 
 ### Monitoring with Spring Boot Actuator
 
-Utilize Spring Boot Actuator to monitor and manage your microservices, gaining insights into their health and performance.
+Utilize Spring Boot Actuator to monitor and manage your microservices, gaining insights into their health and
+performance.
 
 ### Documentation with Swagger
 
@@ -127,8 +140,10 @@ Understand and implement best practices for designing robust, scalable, and main
 
 ### Spring Cloud Bus
 
-Use Spring Cloud Bus to exchange messages about configuration updates and synchronize configuration changes across microservices.
+Use Spring Cloud Bus to exchange messages about configuration updates and synchronize configuration changes across
+microservices.
 
 ### Feign REST Client
 
-Simplify communication between microservices using the Feign REST Client, enabling easy and declarative HTTP client creation.
+Simplify communication between microservices using the Feign REST Client, enabling easy and declarative HTTP client
+creation.
