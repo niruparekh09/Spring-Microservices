@@ -1,3 +1,5 @@
+## Netflix Eureka and Spring Cloud API Gateway interaction
+
 Netflix Eureka and Spring Cloud API Gateway work together seamlessly in a microservices architecture to provide a
 dynamic and scalable way to manage API traffic. Here's how they collaborate:
 
