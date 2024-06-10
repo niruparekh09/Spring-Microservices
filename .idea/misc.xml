@@ -7,9 +7,12 @@
         <option value="$PROJECT_DIR$/REST-Versioning/pom.xml" />
         <option value="$PROJECT_DIR$/REST-Hateoas-Actuator/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Microservices/limits-service/pom.xml" />
-        <option value="$PROJECT_DIR$/Misc/REST-Hateoas-Actuator/pom.xml" />
-        <option value="$PROJECT_DIR$/Misc/REST-Versioning/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Microservices/Spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Microservices/Currency-Exchange-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Microservices/Currency-Conversion-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Microservices/Naming-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Misc/REST-Versioning/pom.xml" />
+        <option value="$PROJECT_DIR$/Misc/REST-Hateoas-Actuator/pom.xml" />
       </list>
     </option>
   </component>

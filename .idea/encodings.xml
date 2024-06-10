@@ -5,6 +5,9 @@
     <file url="file://$PROJECT_DIR$/Misc/REST-Versioning/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/REST-Hateoas-Actuator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/REST-Versioning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Microservices/Currency-Conversion-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Microservices/Currency-Exchange-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Microservices/Naming-Server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Microservices/Spring-cloud-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Microservices/limits-service/src/main/java" charset="UTF-8" />
   </component>
