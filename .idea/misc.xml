@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/Spring-Microservices/Naming-Server/pom.xml" />
         <option value="$PROJECT_DIR$/Misc/REST-Versioning/pom.xml" />
         <option value="$PROJECT_DIR$/Misc/REST-Hateoas-Actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Microservices/Api-Gateway/pom.xml" />
       </list>
     </option>
   </component>
