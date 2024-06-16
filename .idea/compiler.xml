@@ -11,14 +11,12 @@
         <module name="REST-Hateoas-Actuator" />
         <module name="Currency-Conversion-Service" />
         <module name="Naming-Server" />
+        <module name="ProductsMicroservice" />
         <module name="Currency-Exchange-Service" />
         <module name="limits-service" />
         <module name="Api-Gateway" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ProductsMicroservice" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
