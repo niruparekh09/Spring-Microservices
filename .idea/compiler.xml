@@ -11,6 +11,7 @@
         <module name="REST-Hateoas-Actuator" />
         <module name="Currency-Conversion-Service" />
         <module name="Naming-Server" />
+        <module name="Product-Microservice" />
         <module name="Currency-Exchange-Service" />
         <module name="limits-service" />
         <module name="Api-Gateway" />
@@ -26,6 +27,7 @@
       <module name="Currency-Conversion-Service" options="-parameters" />
       <module name="Currency-Exchange-Service" options="-parameters" />
       <module name="Naming-Server" options="-parameters" />
+      <module name="Product-Microservice" options="-parameters" />
       <module name="ProductsMicroservice" options="-parameters" />
       <module name="REST-Hateoas-Actuator" options="-parameters" />
       <module name="REST-Versioning" options="-parameters" />

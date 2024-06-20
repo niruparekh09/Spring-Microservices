@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/Misc/REST-Hateoas-Actuator/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Microservices/Api-Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/Kafka/ProductsMicroservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Event Driven/Product-Microservice/pom.xml" />
       </list>
     </option>
   </component>
