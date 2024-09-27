@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: 01_Service_Registry
+
+# so that all the clients are auto registered with eureka
+server:
+  port: 8761
+
+eureka:
+  client:
+    register-with-eureka: false
