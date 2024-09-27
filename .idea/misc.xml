@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/V1/Misc/REST-Versioning/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Misc/REST-Hateoas-Actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Event Driven/core/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Event Driven/Product-Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Event Driven/Email-Notification-Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Spring-Microservices/Api-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Spring-Microservices/Naming-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Spring-Microservices/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Spring-Microservices/Currency-Exchange-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Spring-Microservices/Spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/V1/Spring-Microservices/Currency-Conversion-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/V2/02_Admin_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/V2/01_Service_Registry/pom.xml" />
+        <option value="$PROJECT_DIR$/V2/04_Welcome_API/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

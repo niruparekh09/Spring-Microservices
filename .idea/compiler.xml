@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="REST-Versioning" />
+        <module name="REST-Hateoas-Actuator" />
+        <module name="Email-Notification-Microservice" />
+        <module name="02_Admin_Server" />
+        <module name="01_Service_Registry" />
+        <module name="Spring-cloud-config-server" />
+        <module name="core" />
+        <module name="Product-Microservice" />
+        <module name="Naming-Server" />
+        <module name="Currency-Conversion-Service" />
+        <module name="04_Welcome_API" />
+        <module name="Currency-Exchange-Service" />
+        <module name="Api-Gateway" />
+        <module name="limits-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01_Service_Registry" options="-parameters" />
+      <module name="02_Admin_Server" options="-parameters" />
+      <module name="04_Welcome_API" options="-parameters" />
+      <module name="Api-Gateway" options="-parameters" />
+      <module name="Currency-Conversion-Service" options="-parameters" />
+      <module name="Currency-Exchange-Service" options="-parameters" />
+      <module name="Email-Notification-Microservice" options="-parameters" />
+      <module name="Naming-Server" options="-parameters" />
+      <module name="Product-Microservice" options="-parameters" />
+      <module name="REST-Hateoas-Actuator" options="-parameters" />
+      <module name="REST-Versioning" options="-parameters" />
+      <module name="Spring-cloud-config-server" options="-parameters" />
+      <module name="core" options="-parameters" />
+      <module name="limits-service" options="-parameters" />
+    </option>
+  </component>
+</project>

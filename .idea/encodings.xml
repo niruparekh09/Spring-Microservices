@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/V1/Event Driven/Email-Notification-Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Event Driven/Product-Microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Event Driven/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Misc/REST-Hateoas-Actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Misc/REST-Versioning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Spring-Microservices/Api-Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Spring-Microservices/Currency-Conversion-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Spring-Microservices/Currency-Exchange-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Spring-Microservices/Naming-Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Spring-Microservices/Spring-cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1/Spring-Microservices/limits-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2/01_Service_Registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2/02_Admin_Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2/04_Welcome_API/src/main/java" charset="UTF-8" />
+  </component>
+</project>
