@@ -1,13 +1,11 @@
 spring:
   application:
-    name: 04_Welcome_API
+    name: Welcome-API
   # Admin Client config
   boot:
     admin:
       client:
         url: http://localhost:1111/
-server:
-  port: 8081
 # If your erueka is running on any other port than 8761, like 9090
 #eureka:
 #  client:
