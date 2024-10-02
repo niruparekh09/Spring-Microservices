@@ -15,5 +15,7 @@
     <file url="file://$PROJECT_DIR$/V2/01_Service_Registry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/V2/02_Admin_Server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/V2/04_Welcome_API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2/05_Greet_API/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2/06_API_Gateway/src/main/java" charset="UTF-8" />
   </component>
 </project>

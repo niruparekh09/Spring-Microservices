@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: welcome # This will fetch the data from GitHub welcome.yml file via config server.
+  config:
+    import: optional:configserver:http://localhost:9093
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh

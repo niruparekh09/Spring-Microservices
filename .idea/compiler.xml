@@ -12,12 +12,14 @@
         <module name="Email-Notification-Microservice" />
         <module name="02_Admin_Server" />
         <module name="01_Service_Registry" />
+        <module name="05_Greet_API" />
         <module name="Spring-cloud-config-server" />
         <module name="core" />
         <module name="Product-Microservice" />
         <module name="Naming-Server" />
         <module name="Currency-Conversion-Service" />
         <module name="04_Welcome_API" />
+        <module name="06_API_Gateway" />
         <module name="Currency-Exchange-Service" />
         <module name="Api-Gateway" />
         <module name="limits-service" />
@@ -29,6 +31,8 @@
       <module name="01_Service_Registry" options="-parameters" />
       <module name="02_Admin_Server" options="-parameters" />
       <module name="04_Welcome_API" options="-parameters" />
+      <module name="05_Greet_API" options="-parameters" />
+      <module name="06_API_Gateway" options="-parameters" />
       <module name="Api-Gateway" options="-parameters" />
       <module name="Currency-Conversion-Service" options="-parameters" />
       <module name="Currency-Exchange-Service" options="-parameters" />

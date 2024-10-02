@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nrv</groupId>
-	<artifactId>06_API_Gateway</artifactId>
+	<artifactId>07_Cloud_Config_Server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>06_API_Gateway</name>
-	<description>API Gateway for NRV Microservice</description>
+	<name>07_Cloud_Config_Server</name>
+	<description>Config Server for Nrv Microservice</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -33,20 +33,9 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-gateway</artifactId>
+			<artifactId>spring-cloud-config-server</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>io.micrometer</groupId>
-			<artifactId>micrometer-tracing-bridge-brave</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>io.zipkin.reporter2</groupId>
-			<artifactId>zipkin-reporter-brave</artifactId>
-		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
